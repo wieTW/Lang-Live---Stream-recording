@@ -54,6 +54,6 @@ bash Lang_StreamRecorder.sh
 <br/>
 
 ## Demo:
-<img src="https://github.com/wieTW/LangLive-Stream-recorder/blob/master/Demo/ConsoleDemo.png?raw=true" class="center" width="1000"/>
+<img src="https://github.com/wieTW/LangLive-Stream-recorder/blob/master/Demo/ConsoleDemo.png?raw=true" class="center" width="700"/>
 
 <br/>
