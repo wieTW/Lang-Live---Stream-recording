@@ -3,7 +3,7 @@
 #############################
 # Lang Live-Stream recorder
 # Author: wieTW
-# Website: wie.tw
+# Website: blog.wie.tw
 # email: yep2858@gmail.com
 # Last version: 0.3.3
 # Last modify: 2020.07.14
