@@ -1,4 +1,4 @@
-# Lang Live- Stream recording
+# Lang Live- Stream recorder
 
 
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/yepwie?label=Follow&logo=instagram&style=social)](https://www.instagram.com/yepwie/) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/william.yep?label=Like&logo=facebook&style=social)](https://www.facebook.com/william.yep)
