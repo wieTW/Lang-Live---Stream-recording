@@ -16,6 +16,7 @@ I like to listen to the broadcast of [Lang Live Radio](http://lang.live) .
 Sometimes I am not available at the moment and I can’t listen to the broadcast on time. 
 Lang Live does not record the history video/audio (not currently available). 
 You will miss an episode, so I wrote this tool to solve it.
+<br/>
 
 
 ## What the tool can do for you？
@@ -26,6 +27,7 @@ When the host is online, the stream will be downloaded automatically, and then c
 Also upload to Google Drive. You can use link to share with your friends.
 
 ID3 tags have been added to the mp3 format, now you can make an album! It's really exciting!
+<br/>
 
 
 
@@ -39,6 +41,7 @@ You need to download the package:
 * curl
 * lame
 * gdrive
+<br/>
 
 
 ## How to use?
@@ -48,6 +51,7 @@ bash Lang_StreamRecorder.sh
 * Enter execution time(minute), 0 = Unrestricted
 * Select record format: m4a, mp3, audio(m4a and mp3), mp4
 * Use curl to update room infomation?
+<br/>
 
 
 ## Demo:
