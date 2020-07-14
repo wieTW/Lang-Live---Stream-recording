@@ -47,11 +47,11 @@ You need to download the package:
 
 ## How to use?
 bash Lang_StreamRecorder.sh
-* Enter the room id to record 
-* Enter interval delay time(second)
-* Enter execution time(minute), 0 = Unrestricted
-* Select record format: m4a, mp3, audio(m4a and mp3), mp4
-* Use curl to update room infomation?
+1. Enter the room id to record 
+2. Enter interval delay time(second)
+3. Enter execution time(minute), 0 = Unrestricted
+4. Select record format: m4a, mp3, audio(m4a and mp3), mp4
+5. Use curl to update room infomation?
 
 <br/>
 
