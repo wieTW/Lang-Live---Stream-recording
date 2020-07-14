@@ -12,7 +12,6 @@
 <br/>
 
 ## Do you have this experience?
-
 I like to listen to the broadcast of [Lang Live Radio](http://lang.live) . 
 Sometimes I am not available at the moment and I can’t listen to the broadcast on time. 
 Lang Live does not record the history video/audio (not currently available). 
@@ -22,7 +21,6 @@ You will miss an episode, so I wrote this tool to solve it.
 
 
 ## What the tool can do for you？
-
 Help you monitor the Lang Live radio.
 
 When the host is online, the stream will be downloaded automatically, and then converted to mp3 or m4a music format.
@@ -56,6 +54,6 @@ bash Lang_StreamRecorder.sh
 <br/>
 
 ## Demo:
+<img src="https://github.com/wieTW/LangLive-Stream-recorder/blob/master/Demo/ConsoleDemo.png?raw=true" class="center" width="500"/>
 
 <br/>
-
